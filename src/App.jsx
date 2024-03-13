@@ -1,6 +1,11 @@
+import { Main } from "./Components/Main/Main"
 
 const App = ()=>{
-  return 'App'
+  return(
+    <>
+      <Main/>
+    </>
+  )
 }
 
 export default App
